@@ -6,5 +6,5 @@ let idade = prompt ("Qual é sua idade?")
 if (idade >=18) {
     alert ("você é maior")
 } else {
-    alert ("Você é manor de idade.")
+    alert ("você é menor de idade ")
 }
